@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">K_Gokul</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frstactivity">frstactivity</string>
+    <string name="title_activity_scndactivity">scndactivity</string>
+</resources>
